@@ -4,7 +4,11 @@ Welcome to the MLflow Demo repository!
 
 As a data scientist, I use `mlflow` on Databricks for my day-to-day job and love it! ❤️ In this repo, I will share handy mlflow tips and tricks for you to play with too. 🥂
 
-I plan to write a medium article for each notebok in the repo. Let's see how we go. 💃🏻
+I plan to write an article for each notebok in the repo. Below pls see articles published on Towards Data Science so far. 
+   1. [Algorithm-Agnostic Model Building with MLflow](https://medium.com/towards-data-science/algorithm-agnostic-model-building-with-mlflow-b106a5a29535)    
+   2. [Explainable Generic ML Pipeline with MLflow](https://medium.com/towards-data-science/explainable-generic-ml-pipeline-with-mlflow-2494ca1b3f96)    
+
+
 
 🏄‍♂️ **Get Started**:    
 To get started with this demo, clone the repository and follow the steps below:
